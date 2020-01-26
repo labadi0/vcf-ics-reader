@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//www.celcat.fr//NONSGML CreateICSFiles//FR
+METHOD:PUBLISH
+X-WR-CALNAME:Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190107T073000Z
+DTEND:20190107T180000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (141536-20)
+SUMMARY:Soutenance - 5BDPOO3M (Programmation orientée)\, Groupe-classe TDA
+  S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe
+ TDB  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM A458 SALLE INFORMATIQUE 22p (SAINT MARTIN)\, STM E211 SALLE
+ INFORMATIQUE 13p (SAINT MARTIN)
+DESCRIPTION:5BDPOO3M (Programmation orientée)\nBOURDON JEAN LUC\, GRIGNON
+ ROMUALD\, LEMAIRE MARC\, LIU TIANXIAO\nGroupe-classe TDA  S3 L2 Info\,
+ Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe TDB  S3 L2
+ Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info\nSTM A458
+ SALLE INFORMATIQUE 22p (SAINT MARTIN)\, STM E211 SALLE INFORMATIQUE 13p
+ (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190108T123000Z
+DTEND:20190108T173000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (129665-20)
+SUMMARY:Examens - 5BDALI3M (Algèbre linéaire bilinéai)\, Groupe-classe TDA
+  S3 L2 Info\, Groupe-classe TDA S3 CUPGE MP\, Groupe-classe TDA Sem 3
+ L2 Mathématiques\, Groupe-classe TDA Sem 3 L2 Physique\, Groupe-classe
+ TDA Sem 3 L2 SI\, Groupe-classe TDB  S3 L2 Info\, Groupe-classe TDB Sem 3
+ L2 Mathématiques\, Groupe-classe TDB Sem 3 L2 SI\, Groupe-classe TDC  S3
+ L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM André LWOFF AMPHITHÉÂTRE 524p (SAINT MARTIN)
+DESCRIPTION:5BDALI3M (Algèbre linéaire bilinéai)\nHEBEY
+ EMMANUEL\nGroupe-classe TDA  S3 L2 Info\, Groupe-classe TDA S3 CUPGE MP\, Groupe-classe
+ TDA Sem 3 L2 Mathématiques\, Groupe-classe TDA Sem 3 L2 Physique\,
+ Groupe-classe TDA Sem 3 L2 SI\, Groupe-classe TDB  S3 L2 Info\, Groupe-classe
+ TDB Sem 3 L2 Mathématiques\, Groupe-classe TDB Sem 3 L2 SI\,
+ Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info\nSTM André LWOFF
+ AMPHITHÉÂTRE 524p (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190109T073000Z
+DTEND:20190109T170000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (141539-20)
+SUMMARY:Soutenance - 5BDPOO3M (Programmation orientée)\, Groupe-classe TDA
+  S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe
+ TDB  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM A458 SALLE INFORMATIQUE 22p (SAINT MARTIN)
+DESCRIPTION:5BDPOO3M (Programmation orientée)\nBOURDON JEAN LUC\, GRIGNON
+ ROMUALD\, LEMAIRE MARC\, LIU TIANXIAO\nGroupe-classe TDA  S3 L2 Info\,
+ Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe TDB  S3 L2
+ Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info\nSTM A458
+ SALLE INFORMATIQUE 22p (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190109T073000Z
+DTEND:20190109T180000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (141540-20)
+SUMMARY:Soutenance - 5BDPOO3M (Programmation orientée)\, Groupe-classe TDA
+  S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe
+ TDB  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM A458 SALLE INFORMATIQUE 22p (SAINT MARTIN)\, STM E211 SALLE
+ INFORMATIQUE 13p (SAINT MARTIN)
+DESCRIPTION:5BDPOO3M (Programmation orientée)\nBOURDON JEAN LUC\, GRIGNON
+ ROMUALD\, LEMAIRE MARC\, LIU TIANXIAO\nGroupe-classe TDA  S3 L2 Info\,
+ Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe TDB  S3 L2
+ Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info\nSTM A458
+ SALLE INFORMATIQUE 22p (SAINT MARTIN)\, STM E211 SALLE INFORMATIQUE 13p
+ (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190110T080000Z
+DTEND:20190110T110000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (132979-20)
+SUMMARY:Examens - 5BDPOO3M (Programmation orientée)\, Groupe-classe TDA 
+ S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe TDB
+  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM Henri POINCARE AMPHITHÉÂTRE 256p (SAINT MARTIN)\, STM Jean
+ GOGUEL AMPHITHÉÂTRE 190p (SAINT MARTIN)
+DESCRIPTION:5BDPOO3M (Programmation orientée)\nLEMAIRE MARC\nGroupe-classe
+ TDA  S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\,
+ Groupe-classe TDB  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD
+ S3 L2 Info\nSTM Henri POINCARE AMPHITHÉÂTRE 256p (SAINT MARTIN)\, STM
+ Jean GOGUEL AMPHITHÉÂTRE 190p (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181219T070700Z
+DTSTART:20190110T130000Z
+DTEND:20190110T163000Z
+UID:CELCAT - Emploi du temps Ã‰tudiant - DELAFORGE EMILIE\, 21202694 -
+ UCP_2018_2019 (132983-20)
+SUMMARY:Examens - 5BDALG3M (Algorithmique 2)\, Groupe-classe TDA  S3 L2
+ Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe TDB  S3 L2
+ Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3 L2 Info
+LOCATION:STM A264 SALLE DE TD 30p (SAINT MARTIN)\, STM André LWOFF
+ AMPHITHÉÂTRE 524p (SAINT MARTIN)\, STM Mathison TURING AMPHITHÉÂTRE 256p (SAINT
+ MARTIN)
+DESCRIPTION:5BDALG3M (Algorithmique 2)\nDERDOURI BRAHIM\nGroupe-classe TDA
+  S3 L2 Info\, Groupe-classe TDA Sem 3 L2 Mathématiques\, Groupe-classe
+ TDB  S3 L2 Info\, Groupe-classe TDC  S3 L2 Info\, Groupe-classe TDD S3
+ L2 Info\nSTM A264 SALLE DE TD 30p (SAINT MARTIN)\, STM André LWOFF
+ AMPHITHÉÂTRE 524p (SAINT MARTIN)\, STM Mathison TURING AMPHITHÉÂTRE 256p (SAINT MARTIN)\n
+CATEGORIES:CELCAT Timetabler (vcal) - Emploi du temps Ã‰tudiant -
+ DELAFORGE EMILIE\, 21202694 - UCP_2018_2019
+END:VEVENT
+END:VCALENDAR
